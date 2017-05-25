@@ -11,3 +11,4 @@ feature: feat #4
 fix: #6
 bc: breaking change
 bc: #2 - bc doesn't work with feat
+bc: #3 - bc doesn't work without bc comment?
