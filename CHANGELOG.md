@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/benka/changelog-versioning/compare/v1.0.0...v1.1.0) (2017-05-25)
+
+
+### Features
+
+* BREAKING CHANGE added commit hook ([9b7880d](https://github.com/benka/changelog-versioning/commit/9b7880d))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/benka/changelog-versioning/compare/v0.2.4...v1.0.0) (2017-05-25)
 
