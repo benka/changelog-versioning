@@ -13,6 +13,7 @@
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.0.0",
     "standard-version": "^4.0.0",
+    "validate-commit-message": "^3.0.1",
     "validate-commit-msg": "^2.12.1"
   },
   "config": {
