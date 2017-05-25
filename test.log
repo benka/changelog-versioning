@@ -9,3 +9,4 @@ fix: fix #3
 fix: fix #5
 feature: feat #4
 fix: #6
+bc: breaking change
