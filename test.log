@@ -12,3 +12,4 @@ fix: #6
 bc: breaking change
 bc: #2 - bc doesn't work with feat
 bc: #3 - bc doesn't work without bc comment?
+bc: #4 - bc works when bc part is filled
