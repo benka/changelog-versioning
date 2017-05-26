@@ -16,3 +16,4 @@ bc: #4 - bc works when bc part is filled
 git hook test: q
 add stuff not to appear on chlog
 flow #1
+flow #2
