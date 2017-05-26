@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.1.0"></a>
+# [3.1.0](https://github.com/benka/changelog-versioning/compare/v3.0.1...v3.1.0) (2017-05-26)
+
+
+### Bug Fixes
+
+* 123123123123 ([e3ca37a](https://github.com/benka/changelog-versioning/commit/e3ca37a))
+
+
+### Features
+
+* 123 ([f49fa1d](https://github.com/benka/changelog-versioning/commit/f49fa1d))
+* 123123123123 ([1cd7964](https://github.com/benka/changelog-versioning/commit/1cd7964))
+* **feature/x:** merge to develop ([d7d7545](https://github.com/benka/changelog-versioning/commit/d7d7545))
+
+
+
 <a name="3.0.1"></a>
 ## [3.0.1](https://github.com/benka/changelog-versioning/compare/v3.0.0...v3.0.1) (2017-05-26)
 
