@@ -15,3 +15,4 @@ bc: #3 - bc doesn't work without bc comment?
 bc: #4 - bc works when bc part is filled
 git hook test: q
 add stuff not to appear on chlog
+flow #1
