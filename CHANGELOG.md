@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.2.0"></a>
+# [3.2.0](https://github.com/benka/changelog-versioning/compare/v3.1.1...v3.2.0) (2017-06-30)
+
+
+### Features
+
+* new test ([75f2a9f](https://github.com/benka/changelog-versioning/commit/75f2a9f))
+
+
+
 <a name="3.1.1"></a>
 ## [3.1.1](https://github.com/benka/changelog-versioning/compare/v3.1.0...v3.1.1) (2017-05-26)
 
