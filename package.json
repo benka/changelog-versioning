@@ -1,6 +1,6 @@
 {
   "name": "conv-chlog",
-  "version": "3.3.0-dev20170710.1",
+  "version": "3.3.0-dev20170710.2",
   "description": "",
   "main": "index.js",
   "scripts": {

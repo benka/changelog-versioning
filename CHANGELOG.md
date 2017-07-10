@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.3.0-dev20170710.2"></a>
+# [3.3.0-dev20170710.2](https://github.com/benka/changelog-versioning/compare/v3.3.0-dev20170630.2...v3.3.0-dev20170710.2) (2017-07-10)
+
+
+
 <a name="3.3.0-dev20170710.1"></a>
 # [3.3.0-dev20170710.1](https://github.com/benka/changelog-versioning/compare/v3.3.0-dev20170710.0...v3.3.0-dev20170710.1) (2017-07-10)
 
