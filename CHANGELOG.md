@@ -2,6 +2,134 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.3.0-dev20170710.2"></a>
+# [3.3.0-dev20170710.2](https://github.com/benka/changelog-versioning/compare/v3.3.0-dev20170630.2...v3.3.0-dev20170710.2) (2017-07-10)
+
+
+
+<a name="3.3.0-dev20170710.1"></a>
+# [3.3.0-dev20170710.1](https://github.com/benka/changelog-versioning/compare/v3.3.0-dev20170710.0...v3.3.0-dev20170710.1) (2017-07-10)
+
+
+
+<a name="3.3.0-dev20170710.0"></a>
+# [3.3.0-dev20170710.0](https://github.com/benka/changelog-versioning/compare/v3.2.5...v3.3.0-dev20170710.0) (2017-07-10)
+
+
+### Features
+
+* and again ([e622415](https://github.com/benka/changelog-versioning/commit/e622415))
+* improve versioning ([e6e058a](https://github.com/benka/changelog-versioning/commit/e6e058a))
+* test again ([83ed939](https://github.com/benka/changelog-versioning/commit/83ed939))
+
+
+
+<a name="3.3.0-dev20170630.2"></a>
+# [3.3.0-dev20170630.2](https://github.com/benka/changelog-versioning/compare/v3.3.0-dev20170630.1...v3.3.0-dev20170630.2) (2017-06-30)
+
+
+### Features
+
+* and again ([e622415](https://github.com/benka/changelog-versioning/commit/e622415))
+
+
+
+<a name="3.3.0-dev20170630.1"></a>
+# [3.3.0-dev20170630.1](https://github.com/benka/changelog-versioning/compare/v3.3.0-dev20170630.0...v3.3.0-dev20170630.1) (2017-06-30)
+
+
+### Features
+
+* test again ([83ed939](https://github.com/benka/changelog-versioning/commit/83ed939))
+
+
+
+<a name="3.3.0-dev20170630.0"></a>
+# [3.3.0-dev20170630.0](https://github.com/benka/changelog-versioning/compare/v3.1.1...v3.3.0-dev20170630.0) (2017-06-30)
+
+
+### Features
+
+* improve versioning ([e6e058a](https://github.com/benka/changelog-versioning/commit/e6e058a))
+* new test ([75f2a9f](https://github.com/benka/changelog-versioning/commit/75f2a9f))
+
+
+
+<a name="3.2.5"></a>
+## [3.2.5](https://github.com/benka/changelog-versioning/compare/v3.2.5-dev20170630.0...v3.2.5) (2017-06-30)
+
+
+
+<a name="3.2.5-dev20170630.0"></a>
+## [3.2.5-dev20170630.0](https://github.com/benka/changelog-versioning/compare/v3.2.5-dev20170630122100.0...v3.2.5-dev20170630.0) (2017-06-30)
+
+
+
+<a name="3.2.5-dev20170630122100.0"></a>
+## [3.2.5-dev20170630122100.0](https://github.com/benka/changelog-versioning/compare/v3.2.5-qa.2...v3.2.5-dev20170630122100.0) (2017-06-30)
+
+
+
+<a name="3.2.5-qa.2"></a>
+## [3.2.5-qa.2](https://github.com/benka/changelog-versioning/compare/v3.2.5-qa.1...v3.2.5-qa.2) (2017-06-30)
+
+
+
+<a name="3.2.5-qa.1"></a>
+## [3.2.5-qa.1](https://github.com/benka/changelog-versioning/compare/v3.2.5-qa.0...v3.2.5-qa.1) (2017-06-30)
+
+
+
+<a name="3.2.5-qa.0"></a>
+## [3.2.5-qa.0](https://github.com/benka/changelog-versioning/compare/v3.2.5-dev.0...v3.2.5-qa.0) (2017-06-30)
+
+
+
+<a name="3.2.5-dev.0"></a>
+## [3.2.5-dev.0](https://github.com/benka/changelog-versioning/compare/v3.2.5-0...v3.2.5-dev.0) (2017-06-30)
+
+
+
+<a name="3.2.5-0"></a>
+## [3.2.5-0](https://github.com/benka/changelog-versioning/compare/v3.2.4...v3.2.5-0) (2017-06-30)
+
+
+
+<a name="3.2.4"></a>
+## [3.2.4](https://github.com/benka/changelog-versioning/compare/v3.2.3...v3.2.4) (2017-06-30)
+
+
+
+<a name="3.2.3"></a>
+## [3.2.3](https://github.com/benka/changelog-versioning/compare/v3.2.2...v3.2.3) (2017-06-30)
+
+
+
+<a name="3.2.2"></a>
+## [3.2.2](https://github.com/benka/changelog-versioning/compare/v3.2.1...v3.2.2) (2017-06-30)
+
+
+
+<a name="3.2.1"></a>
+## [3.2.1](https://github.com/benka/changelog-versioning/compare/v3.2.0...v3.2.1) (2017-06-30)
+
+
+
+<a name="3.2.0"></a>
+# [3.2.0](https://github.com/benka/changelog-versioning/compare/v3.1.1...v3.2.0) (2017-06-30)
+
+
+### Features
+
+* new test ([75f2a9f](https://github.com/benka/changelog-versioning/commit/75f2a9f))
+
+
+
+<a name="3.1.1"></a>
+## [3.1.1](https://github.com/benka/changelog-versioning/compare/v3.1.0...v3.1.1) (2017-05-26)
+
+
+
 <a name="3.1.0"></a>
 # [3.1.0](https://github.com/benka/changelog-versioning/compare/v3.0.1...v3.1.0) (2017-05-26)
 
